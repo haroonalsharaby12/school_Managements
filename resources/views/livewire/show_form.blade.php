@@ -1,0 +1,5 @@
+ 
+
+<livewire:add-parents/>
+
+@livewireScripts
